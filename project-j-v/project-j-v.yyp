@@ -1,17 +1,20 @@
 {
   "resources": [
     {"id":{"name":"enemyObject","path":"objects/enemyObject/enemyObject.yy",},"order":1,},
+    {"id":{"name":"RedHeavyHitCard","path":"sprites/RedHeavyHitCard/RedHeavyHitCard.yy",},"order":1,},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":15,},
-    {"id":{"name":"CardSprite","path":"sprites/CardSprite/CardSprite.yy",},"order":0,},
+    {"id":{"name":"BlueSwordCard","path":"sprites/BlueSwordCard/BlueSwordCard.yy",},"order":0,},
     {"id":{"name":"playerObject","path":"objects/playerObject/playerObject.yy",},"order":0,},
     {"id":{"name":"Controller","path":"objects/Controller/Controller.yy",},"order":1,},
     {"id":{"name":"Font","path":"fonts/Font/Font.yy",},"order":0,},
     {"id":{"name":"playerSprite","path":"sprites/playerSprite/playerSprite.yy",},"order":1,},
     {"id":{"name":"Counter","path":"objects/Counter/Counter.yy",},"order":1,},
     {"id":{"name":"EventHandlerObject","path":"objects/EventHandlerObject/EventHandlerObject.yy",},"order":0,},
+    {"id":{"name":"OutlineCard","path":"sprites/OutlineCard/OutlineCard.yy",},"order":3,},
     {"id":{"name":"CaveBackdrop","path":"sprites/CaveBackdrop/CaveBackdrop.yy",},"order":2,},
     {"id":{"name":"enemySprite","path":"sprites/enemySprite/enemySprite.yy",},"order":0,},
-    {"id":{"name":"SwordCard","path":"objects/SwordCard/SwordCard.yy",},"order":0,},
+    {"id":{"name":"CardObject","path":"objects/CardObject/CardObject.yy",},"order":0,},
+    {"id":{"name":"DigForHealthCard","path":"sprites/DigForHealthCard/DigForHealthCard.yy",},"order":2,},
     {"id":{"name":"BattleSequence","path":"rooms/BattleSequence/BattleSequence.yy",},"order":0,},
   ],
   "Options": [
@@ -46,6 +49,7 @@
     {"folderPath":"folders/Sprites/UI.yy","order":4,"resourceVersion":"1.0","name":"UI","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/UI.yy","order":2,"resourceVersion":"1.0","name":"UI","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Game.yy","order":3,"resourceVersion":"1.0","name":"Game","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/UI/CardTypes.yy","order":1,"resourceVersion":"1.0","name":"CardTypes","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},

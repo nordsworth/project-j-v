@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "CardSprite",
-    "path": "sprites/CardSprite/CardSprite.yy",
+    "name": "OutlineCard",
+    "path": "sprites/OutlineCard/OutlineCard.yy",
   },
   "solid": false,
   "visible": true,
@@ -29,6 +29,7 @@
   "properties": [
     {"varType":0,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"handIndex","tags":[],"resourceType":"GMObjectProperty",},
     {"varType":3,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"selected","tags":[],"resourceType":"GMObjectProperty",},
+    {"varType":1,"value":"1","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"sprite","tags":[],"resourceType":"GMObjectProperty",},
   ],
   "overriddenProperties": [],
   "parent": {
@@ -36,7 +37,7 @@
     "path": "folders/Objects/UI.yy",
   },
   "resourceVersion": "1.0",
-  "name": "SwordCard",
+  "name": "CardObject",
   "tags": [],
   "resourceType": "GMObject",
 }
